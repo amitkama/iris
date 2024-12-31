@@ -1,0 +1,33 @@
+
+Training fold 1...
+Fold 1 Accuracy: 1.0000
+
+Training fold 2...
+Fold 2 Accuracy: 1.0000
+
+Training fold 3...
+Fold 3 Accuracy: 1.0000
+
+Training fold 4...
+Fold 4 Accuracy: 1.0000
+
+Training fold 5...
+Fold 5 Accuracy: 1.0000
+
+Training fold 6...
+Fold 6 Accuracy: 1.0000
+
+Training fold 7...
+Fold 7 Accuracy: 1.0000
+
+Training fold 8...
+Fold 8 Accuracy: 0.9950
+
+Training fold 9...
+Fold 9 Accuracy: 1.0000
+
+Training fold 10...
+Fold 10 Accuracy: 1.0000
+
+Mean Accuracy across 10 folds: 0.9995
+Standard Deviation of Accuracy across 10 folds: 0.0015
