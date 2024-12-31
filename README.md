@@ -16,7 +16,7 @@ This repository is part of our commitment to promoting reproducibility and trans
 
 To get started with the IRIS project repository, clone this repository to your local machine using the following command:
 
-  git clone https://github.com/AmitKama/IRIS.git
+    git clone https://github.com/AmitKama/IRIS.git
 
 ## Prerequisites
 
