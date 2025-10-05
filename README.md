@@ -31,3 +31,7 @@ For 3D model viewing and printing, software that can open STL files.
 ## Contact
 
 For any queries, you can reach out to us at [kamaa@post.bgu.ac.il].
+
+## For More Information
+
+For additional details, please visit the [paper’s official webpage](https://orenlab.sise.bgu.ac.il/p/IRIS).
