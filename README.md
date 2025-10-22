@@ -12,6 +12,8 @@ This repository is part of our commitment to promoting reproducibility and trans
 
 **Design files:** CAD models and schematics for the 3D printed data collection facility, enabling users to recreate the physical setup necessary for experiments.
 
+**Media:** Short videos showcasing the IRIS system in action, the data collection facility, and the production of the 3D-printed setup (see the [media](Media/README.md) directory for details).
+
 ## Getting Started
 
 To get started with the IRIS project repository, clone this repository to your local machine using the following command:
