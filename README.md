@@ -14,6 +14,14 @@ This repository is part of our commitment to promoting reproducibility and trans
 
 **Media:** Short videos showcasing the IRIS system in action, the data collection facility, and the production of the 3D-printed setup (see the [media](Media/) directory for details).
 
+<video src="https://github.com/AmitKama/IRIS/raw/master/Media/short-demo.mp4"
+       controls
+       muted
+       loop
+       width="700">
+</video>
+
+
 ## Getting Started
 
 To get started with the IRIS project repository, clone this repository to your local machine using the following command:
