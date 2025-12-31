@@ -7,7 +7,7 @@
 
 The following video provides a concise, self-contained overview of IRIS, including the motivation, experimental results, and a live demonstration.
 
-<video src="Media/iris-overview.mp4" controls width="100%"></video>
+https://github.com/user-attachments/assets/46cd595f-2d54-4e90-9024-a27b20060d5c
 
 *English and Chinese subtitles are available in the Media directory.*
 
