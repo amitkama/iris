@@ -9,7 +9,7 @@ The following video provides a concise, self-contained overview of IRIS, includi
 
 https://github.com/user-attachments/assets/46cd595f-2d54-4e90-9024-a27b20060d5c
 
-*English and Chinese subtitles are available in the Media directory.*
+*The video includes English and Chinese subtitles.*
 
 
 This repository is part of our commitment to promoting reproducibility and transparency in research. It contains all the resources necessary to replicate and extend our work on the IRIS project.
