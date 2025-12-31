@@ -4,6 +4,14 @@
 
 **IRIS (IR-based Identification System)** is a novel approach for authenticating IoT devices using infrared technology. It leverages the unique characteristics of IR signals to provide a secure and reliable method for device identification, crucial in enhancing the security of interconnected devices across various applications.
 
+
+The following video provides a concise, self-contained overview of IRIS, including the motivation, experimental results, and a live demonstration.
+
+<video src="Media/iris-overview.mp4" controls width="100%"></video>
+
+*English and Chinese subtitles are available in the Media directory.*
+
+
 This repository is part of our commitment to promoting reproducibility and transparency in research. It contains all the resources necessary to replicate and extend our work on the IRIS project.
 
 ## Repository Contents
@@ -12,17 +20,7 @@ This repository is part of our commitment to promoting reproducibility and trans
 
 **Design files:** CAD models and schematics for the 3D printed data collection facility, enabling users to recreate the physical setup necessary for experiments.
 
-**Media:** Short videos showcasing the IRIS system in action, the data collection facility, and the production of the 3D-printed setup (see the [media](Media/) directory for details).
-
-<video src="https://github.com/AmitKama/IRIS/raw/master/Media/short-demo.mp4"
-       controls
-       muted
-       loop
-       width="700">
-</video>
-
-*Short Demonstration – IRIS in Action*
-
+**Media:** A collection of videos including a self-contained IRIS overview, system demonstrations, the data collection facility in action, and the production of the 3D-printed setup (see the [media](Media/) directory for details).
 
 ## Getting Started
 
